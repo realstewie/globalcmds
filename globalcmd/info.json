@@ -1,0 +1,8 @@
+{
+    "name": "GlobalCommands",
+    "description": "A cog for global ban, unban, and kick commands.",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "min_red_version": "3.5.0",
+    "dependencies": []
+}
